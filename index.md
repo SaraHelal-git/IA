@@ -15,6 +15,7 @@ Ce wiki est un guide complet pour maîtriser les prompts, les outils d'IA et les
 - [Contribution au wiki](guide/8-contribution.md)
 - [Conclusion](guide/9-conclusion.md)
 
+
 ## Comment contribuer ?
 
 Pour contribuer, consultez le guide [Contribution](guide/8-contribution.md).
