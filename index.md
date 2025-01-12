@@ -5,7 +5,7 @@ Ce wiki est un guide complet pour maîtriser les prompts, les outils d'IA et les
 
 ## Structure du guide
 
-- [Introduction](guide/1-introduction)
+- [Introduction](guide/1-introduction.md)
 - [Fondamentaux des prompts](guide/2-prompts.md)
 - [Outils et plateformes d'IA](guide/3-outils-ia.md)
 - [Création et gestion d’agents IA](guide/4-agents-ia.md)
