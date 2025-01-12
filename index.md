@@ -1,4 +1,4 @@
-# My Wiki IA : Guide complet pour devenir expert en IA
+# Wiki IA : Guide complet pour devenir expert en IA
 
 Ce wiki est un guide complet pour maîtriser les prompts, les outils d'IA et les agents IA. Il est conçu pour
 être une ressource évolutive et collaborative.
